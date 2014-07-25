@@ -1,0 +1,30 @@
+{
+    "name": "cdn-ftp",
+    "version": "0.0.1",
+    "description": "Synchronize files on CDN and localhost through FTP",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "FTP",
+        "CDN",
+        "Sync"
+    ],
+    "author": {
+        "name": "Fantasy Shao",
+        "email": "fantasyshao@icloud.com",
+        "url": "http://fantasy.codes"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:SFantasy/cdn-ftp.git"
+    },
+    "bin": {
+        "node-weather": "./bin/cdn-ftp"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "ftp": "0.3.7"
+    }
+}

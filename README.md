@@ -1,5 +1,7 @@
 cdnsync
 ---
+[![Build Status](https://travis-ci.org/SFantasy/cdnsync.svg)](https://travis-ci.org/SFantasy/cdnsync)
+[![NPM](https://nodei.co/npm/cdnsync.png)](https://nodei.co/npm/cdnsync/)
 
 Synchronize the files on CDN with FTP.
 
@@ -21,7 +23,7 @@ cd cdnsync
 
 ## Usage
 
-- Write your own config file.
+### Write your own config file.
 
 ```
 mv config.example.json config.json
@@ -44,7 +46,7 @@ you have to change these items (if necessary):
 }
 ```
 
-- Synchronize all the files according to your configuration
+### Synchronize all the files according to your configuration
 
 ```
 cdnsync

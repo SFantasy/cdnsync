@@ -1,0 +1,9 @@
+{
+    "local-prefix": "/branch/site/",
+    "remote-prefix": "/site/",
+    "ftp-config": {
+        "host": "localhost",
+        "user": "test",
+        "password": "abcdefg"
+    }
+}

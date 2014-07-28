@@ -1,6 +1,6 @@
 {
-    "name": "cdn-ftp",
-    "version": "0.0.1",
+    "name": "cdnsync",
+    "version": "0.0.2",
     "description": "Synchronize files on CDN and localhost through FTP",
     "main": "index.js",
     "scripts": {
@@ -18,10 +18,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git@github.com:SFantasy/cdn-ftp.git"
+        "url": "git@github.com:SFantasy/cdnsync.git"
     },
     "bin": {
-        "node-weather": "./bin/cdn-ftp"
+        "cdnsync": "./bin/cdnsync"
     },
     "license": "MIT",
     "dependencies": {

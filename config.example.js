@@ -1,4 +1,4 @@
-module.exports = {
+var config = {
     // Local directory prefix
     "local-prefix": "/branch/site/",
     // Remote directory prefix
@@ -11,4 +11,7 @@ module.exports = {
         // Password of your FTP account
         "password": "abcdefg"
     }
-}
+};
+
+module.exports = config;
+module.exports.config = config;

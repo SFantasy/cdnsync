@@ -3,9 +3,6 @@
     "version": "0.0.2",
     "description": "Synchronize files on CDN and localhost through FTP",
     "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
     "keywords": [
         "FTP",
         "CDN",

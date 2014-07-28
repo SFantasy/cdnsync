@@ -5,7 +5,7 @@ Synchronize the files on CDN with FTP.
 
 ## Install
 
-### Local
+### Git
 
 ```
 git clone git@github.com:SFantasy/cdnsync.git
@@ -16,13 +16,12 @@ cd cdnsync
 ### NPM
 
 ```
-// Not ready yet.
 [sudo] npm install cdnsync [-g]
 ```
 
 ## Usage
 
-1. Write your own config file.
+- Write your own config file.
 
 ```
 mv config.example.json config.json
@@ -45,7 +44,7 @@ you have to change these items (if necessary):
 }
 ```
 
-2. Synchronize all the files according to your configuration
+- Synchronize all the files according to your configuration
 
 ```
 cdnsync

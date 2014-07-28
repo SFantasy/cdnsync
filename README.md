@@ -1,6 +1,7 @@
 cdnsync
 ---
 [![Build Status](https://travis-ci.org/SFantasy/cdnsync.svg)](https://travis-ci.org/SFantasy/cdnsync)
+
 [![NPM](https://nodei.co/npm/cdnsync.png)](https://nodei.co/npm/cdnsync/)
 
 Synchronize the files on CDN with FTP.
